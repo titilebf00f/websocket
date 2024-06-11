@@ -1,0 +1,10 @@
+{
+	"sender": "Robot2",
+	"receiver": "Robot2",
+	"temperature": 37.149394,
+	"battery": 98.383542,
+	"status": "ok",
+	"movement": false,
+	"position_x": 96.958635,
+	"position_y": 23.873768
+}
